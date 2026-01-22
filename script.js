@@ -151,7 +151,7 @@ document.addEventListener("DOMContentLoaded", function () {
     function draw() {
       // clear
       var img = new Image();
-      img.src = "./ins.png";
+      img.src = "./dulam1.jpg";
   
       img.onload = function () {
         ctx.globalCompositeOperation = "source-over";
